@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="16" fill="#1a1a0a"/>
+  <!-- Scientific flask -->
+  <rect x="42" y="12" width="16" height="28" rx="3" fill="none" stroke="#ffd700" stroke-width="3"/>
+  <path d="M30 75 L42 40 L58 40 L70 75 Q70 88 50 88 Q30 88 30 75Z" fill="rgba(255,215,0,0.3)" stroke="#ffd700" stroke-width="3"/>
+  <!-- Bubbles -->
+  <circle cx="44" cy="65" r="3" fill="#ffd700" opacity="0.8"/>
+  <circle cx="55" cy="72" r="4" fill="#ffd700" opacity="0.6"/>
+  <circle cx="48" cy="78" r="2.5" fill="#ffd700" opacity="0.9"/>
+</svg>
